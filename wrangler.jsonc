@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "epandnews",
+  "compatibility_date": "2025-09-27",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "news-site-development-request"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
